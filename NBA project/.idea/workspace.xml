@@ -65,6 +65,7 @@
       <workItem from="1585515542180" duration="3000" />
       <workItem from="1585515741077" duration="7952000" />
       <workItem from="1585706485685" duration="2240000" />
+      <workItem from="1585714169002" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="final version">
       <created>1585710516910</created>
@@ -78,6 +79,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final version" />
@@ -100,10 +111,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585108229009" />
-    <state x="588" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585710248846">
+    <state x="588" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585714186440">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="588" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1585710248846" />
+    <state x="588" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1585714186440" />
     <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1585430242242">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
